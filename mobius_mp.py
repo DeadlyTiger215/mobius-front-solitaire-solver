@@ -6,7 +6,7 @@ import time
 from multiprocessing import Process, Pipe
 import uuid
 
-preferred_window_pos = None
+preferred_window_pos = (278,156)
 search_depth = 4 # default 4
 
 test_columns_a = [
